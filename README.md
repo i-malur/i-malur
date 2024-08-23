@@ -2,7 +2,6 @@
 * São Paulo - SP
 * Sou formada em Desenvolvimento de Sistemas, pela Etec Abdias do Nascimento
 * Gosto de programar, escrever e ouvir músicas
-* Atualmente faço o curso de imersão JavaScript pela [Reprograma](https://reprograma.com.br/)
 
 # Tecnologias que já trabalhei
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
