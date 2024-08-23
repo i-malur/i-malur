@@ -1,6 +1,7 @@
 # Olá, eu sou a Maria Luiza! ❤️
 * São Paulo - SP
 * Sou formada em Desenvolvimento de Sistemas, pela Etec Abdias do Nascimento
+* Atualmente estou cursando ADS (Análise e Desenvolvimento de Sistemas) pela FATEC Zona Sul
 * Gosto de programar, escrever e ouvir músicas
 
 # Tecnologias que já trabalhei
