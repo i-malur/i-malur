@@ -1,10 +1,10 @@
 # Olá, eu sou a Maria Luiza! ❤️
 
-📍 São Paulo - SP
-🎓 Técnica em Desenvolvimento de Sistemas pela Etec Abdias do Nascimento
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Zona Sul
-💻 Apaixonada por tecnologia, programação e desenvolvimento de software
-📚 Gosto de programar, escrever e ouvir músicas
+📍 São Paulo - SP  
+🎓 Técnica em Desenvolvimento de Sistemas pela Etec Abdias do Nascimento  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Zona Sul  
+💻 Apaixonada por tecnologia, programação e desenvolvimento de software  
+📚 Gosto de programar, escrever e ouvir músicas  
 
 
 ## 🚀 Tecnologias que já trabalhei
