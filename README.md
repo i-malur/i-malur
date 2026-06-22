@@ -1,4 +1,4 @@
-# Olá, eu sou a Maria Luiza! ❤️
+# Print('Hello, World! Eu sou a Maria Luiza! ❤️')
 
 📍 São Paulo - SP  
 🎓 Técnica em Desenvolvimento de Sistemas pela Etec Abdias do Nascimento  
