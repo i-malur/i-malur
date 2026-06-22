@@ -3,7 +3,7 @@
 📍 São Paulo - SP  
 🎓 Técnica em Desenvolvimento de Sistemas pela Etec Abdias do Nascimento  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Zona Sul  
-💻 Apaixonada por tecnologia, programação e desenvolvimento de software  
+💻 Apaixonada por tecnologia. Atualmente estudo dados e programação.
 📚 Gosto de programar, escrever e ouvir músicas  
 
 
